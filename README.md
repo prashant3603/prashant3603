@@ -82,7 +82,7 @@ Technology-driven Public Safety Research Initiative.
 - ☁ Cloud Computing
 - 🏙 Smart Infrastructure
 
-  ---
+---
 
 # 🚀 Development Roadmap
 
@@ -113,15 +113,11 @@ Technology-driven Public Safety Research Initiative.
 
 # 📅 Currently Working On
 
-🟢 Campus Hub
-
-🟢 Project Suraksha Bharat
-
-🟢 DSA
-
-🟢 MERN Stack
-
-🟢 Cybersecurity
+- 🟢 Campus Hub
+- 🟢 Project Suraksha Bharat
+- 🟢 DSA
+- 🟢 MERN Stack
+- 🟢 Cybersecurity
 
 ---
 
@@ -141,6 +137,37 @@ Database    :: MongoDB
 
 ---
 
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashant3603&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant3603&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prashant3603&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prashant3603&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+---
+
 # 📈 GitHub Activity
 
 <div align="center">
@@ -148,3 +175,49 @@ Database    :: MongoDB
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant3603&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/prashant3603" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/prashant-singh-aa5730366/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:prashantsingh3603@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=prashant3603&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### 💙 Keep Learning • Keep Building • Keep Growing 🚀
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:203A43,100:2C5364"/>
