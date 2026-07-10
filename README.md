@@ -82,7 +82,7 @@ Technology-driven Public Safety Research Initiative.
 - ☁ Cloud Computing
 - 🏙 Smart Infrastructure
 
----
+  ---
 
 # 🚀 Development Roadmap
 
@@ -105,7 +105,7 @@ Technology-driven Public Safety Research Initiative.
 - ✅ Complete Campus Hub
 - ✅ Learn Docker
 - ✅ Learn AWS
-- ✅ 500+ LeetCode Problems
+- ✅ Solve 500+ LeetCode Problems
 - ✅ Open Source Contributions
 - ✅ Internship in Product Company
 
@@ -143,46 +143,8 @@ Database    :: MongoDB
 
 # 📈 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant3603&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/prashant3603">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="**https://www.linkedin.com/in/prashant-singh-aa5730366/**">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:prashantsingh3603@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=prashant3603&style=for-the-badge&color=blue"/>
-
----
-
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
-
-**Keep Learning 🚀 Keep Building 💙**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant3603&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:203A43,100:2C5364"/>
